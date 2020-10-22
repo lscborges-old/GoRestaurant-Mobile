@@ -8,6 +8,21 @@
 
 > A restaurant management application to check dishes availability. This application was developed as a challenge of the Rocketseat Gostack BootCamp.
 
+## Preview
+
+ <img src=".github/gorestaurant_mobile.png" />
+ 
+## Others repositories of this project :books:
+* <a href="https://github.com/lscborges1/GoRestaurant-Web">Web Front-end</a>
+
+
+## Technologies Used
+
+* <a href="https://reactnative.dev//">React Native ⚛️</a>
+* <a href="https://styled-components.com/">Styled-Components 💅🏻</a>
+* <a href="https://jestjs.io/">Jest 🃏</a>
+* <a href="https://www.typescriptlang.org/">Typescript :blue_book:</a>
+
 ## Install
 
 ```sh
@@ -17,7 +32,13 @@ yarn install
 ## Usage
 
 ```sh
-yarn run start
+yarn android
+```
+
+or 
+
+```sh
+yarn ios
 ```
 
 ## Run tests
@@ -35,6 +56,3 @@ yarn run test
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
